@@ -1,1 +1,1 @@
-# odin-recipes
+This project will demonstrate everything that I have gathered, and learned from the Odin Project, thus far. I will show that I am able to correctly put together boilerpoint text inside of my code. I will show that can structure both the head and body of the coding notebook. I will show i can stylize text through emphasizing and making text appear strong. I will also show that I can link both internal and exteranl webpages. While adding media such as photos
